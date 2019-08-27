@@ -211,6 +211,7 @@ def schedule_actions():
 
 if __name__ == '__main__':
     print("Automation is starting ...")
-    schedule_actions()
-    scheduler.start()
+	job()
+    #schedule_actions()
+    #scheduler.start()
 
